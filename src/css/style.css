@@ -41,8 +41,12 @@ body{
 
 }
 
+.logo{
+    width: 180px;
+}
+
 .cabecalho{
-    padding: 3% 0 3% 0;
+    padding: 1% 0 1% 0;
 
 }
 
