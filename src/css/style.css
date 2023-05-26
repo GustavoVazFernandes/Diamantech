@@ -31,7 +31,7 @@ header{
 body{
     box-sizing: border-box;
     background-color: var(--cor--primaria);
-    background-image: url("/src/img/19366.jpg");
+    background-image: url("./19366.jpg");
     background-attachment:fixed;
     background-size: 100%;
     background-repeat: no-repeat;
